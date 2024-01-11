@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- 👨‍💻 All of my projects are available at [https://tejasmane.netlify.app/](https://tejasmane.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://tejasmane.netlify.app/)
 
 - 💬 Ask me about **Android, IOS, MERN, Cyber Security, DevOps **
 
 - 📫 How to reach me **tsmane8787@gmail.com**
 
-- 📄 Know about my experiences [https://tejasmane.netlify.app/assets/Tejas.pdf](https://tejasmane.netlify.app/assets/Tejas.pdf)
+- 📄 Know about my experiences [Resume](https://tejasmane.netlify.app/assets/Tejas.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
