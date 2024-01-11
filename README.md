@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tejas Mane</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/tenor.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejas23&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejas23" /> </p>
 
