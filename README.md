@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://tejasmane.netlify.app/](https://tejasmane.netlify.app/)
 
-- 💬 Ask me about **Android , IOS , MERN ,Cyber Security**
+- 💬 Ask me about **Android, IOS, MERN, Cyber Security, DevOps **
 
 - 📫 How to reach me **tsmane8787@gmail.com**
 
