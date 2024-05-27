@@ -3,11 +3,11 @@
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/flflC6GFzO8AAAAd/tenor.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamtejas23&label=Profile%20views&color=0e75b6&style=flat" alt="iamtejas23" /> </p>
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://tejasmane.netlify.app/)
 
-- 💬 Ask me about **DevOps, Android, IOS, MERN, Cyber Security**
+- 💬 Ask me about **Android, IOS, MERN, Cyber Security**
 
 - 📫 How to reach me **tsmane8787@gmail.com**
 
