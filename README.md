@@ -58,16 +58,3 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=iamtejas23&show_icons=true&theme=tokyonight" alt="Tejas's github stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamtejas23&theme=tokyonight" alt="Tejas's streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejas23&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
