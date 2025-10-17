@@ -1,6 +1,3 @@
-
-
-```{"variant":"chat_message","title":"Professional GitHub Profile README (Tejas Mane)","id":"59012"}
 <h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Tejas Mane</span></h1>
 <h3 align="center">🚀 System Engineer | DevOps & Cloud Enthusiast | Full-Stack Developer</h3>
 
@@ -21,7 +18,7 @@
 - 💻 Experienced with **Docker, CI/CD, Cloud Monitoring, and Infra as Code**
 - 🚀 Love to build and automate **scalable cloud-native systems**
 - 🧩 Open to collaborations on **DevOps, Cloud, and Full-Stack projects**
-- 🗂️ Check out my **[Portfolio](https://tejasmane.netlify.app/)**  
+- 🗂️ Check out my **[Portfolio](https://tejasmane.netlify.app/)**
 - 📄 View my **[Resume](https://tejasmane.netlify.app/assets/Tejas.pdf)**
 - 📬 Reach me at **tsmane8787@gmail.com**
 
@@ -86,6 +83,3 @@
 <p align="center">
   <a href="https://tejasmane.netlify.app/"><img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-blue?style=for-the-badge" /></a>
 </p>
-```
-
-
