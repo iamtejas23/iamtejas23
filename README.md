@@ -37,7 +37,7 @@
 
 #### ☁️ DevOps & Cloud
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,prometheus,grafana,bash, opentofu" height="45"/>
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,linux,prometheus,grafana,bash,opentofu" height="45"/>
 </p>
 
 #### 🧑‍💻 Programming & Backend
