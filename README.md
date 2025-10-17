@@ -47,7 +47,7 @@
 
 #### 🎨 Frontend & Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,angular,vue,js,ts,html,css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react,angular,vue,js,ts,html,css" height="45"/>
 </p>
 
 ---
