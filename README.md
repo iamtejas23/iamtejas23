@@ -69,9 +69,7 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamtejas23&theme=darkhub&margin-w=15&no-frame=true&row=1" alt="GitHub trophies" />
-</p>
+
 
 ---
 
