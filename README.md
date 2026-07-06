@@ -2,15 +2,18 @@
 <p align="center">System Engineer · DevOps &amp; Cloud Enthusiast · Full-Stack Developer</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=0078FF&center=true&vCenter=true&width=500&lines=Building+scalable+cloud-native+systems;AWS+%7C+Kubernetes+%7C+Terraform+%7C+Observability;CI%2FCD+%7C+Docker+%7C+Infrastructure+as+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=Building+scalable%2C+cloud-native+systems;AWS+%C2%B7+Kubernetes+%C2%B7+Terraform+%C2%B7+Observability;CI%2FCD+%C2%B7+Docker+%C2%B7+Infra+as+Code" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/tejas-mane-9621221b4"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/iamtejas23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:tsmane8787@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/tejas-mane-9621221b4" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://twitter.com/iamtejas23" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:tsmane8787@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+</p>
+
+<p align="center">
   <a href="https://tejasmane.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-0078FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://tejasmane.netlify.app/assets/Tejas.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="https://tejasmane.netlify.app/assets/Tejas.pdf"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=readdotcv&logoColor=white" /></a>
 </p>
 
 <p align="center">
