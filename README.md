@@ -1,5 +1,8 @@
-<h1 align="center">👋 Hey there, I'm <span style="color:#0078ff;">Tejas Mane</span></h1>
-<h3 align="center">🚀 System Engineer | DevOps & Cloud Enthusiast | Full-Stack Developer</h3>
+<h1 align="center">👋 Hey there, I'm Tejas Mane</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=0078FF&center=true&vCenter=true&width=600&lines=System+Engineer+%7C+DevOps+%26+Cloud+Enthusiast;Full-Stack+Developer;Automating+the+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://cdn.dribbble.com/users/5690231/screenshots/16191500/media/4fbd0ec22f13a3521bb37cc5fe8b1cb3.gif" alt="coding" width="450"/>
@@ -7,6 +10,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamtejas23&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="profile views" />
+  <a href="https://tejasmane.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-tejasmane.netlify.app-0078FF?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -54,9 +58,17 @@
 
 ### 📊 GitHub Analytics
 
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=iamtejas23&show_icons=true&count_private=true&theme=tokyonight" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejas23&layout=compact&theme=tokyonight" />
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamtejas23&layout=compact&theme=tokyonight" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=iamtejas23&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=iamtejas23&theme=tokyonight&column=7&margin-w=10&no-frame=true" />
 </p>
 
 ---
@@ -66,10 +78,6 @@
 - ⚙️ Hands-on in **EKS, Helm, CI/CD Pipelines, Cloud Monitoring**
 - 💡 Built full-stack apps and deployed on **Kubernetes & Docker**
 - 🔐 Keen interest in **Cybersecurity & Cloud Hardening**
-
----
-
-
 
 ---
 
